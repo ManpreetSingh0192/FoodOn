@@ -38,7 +38,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="30dp"
-            android:background="#FF5722"
+            android:background="@drawable/btnred"
             android:text="Connect As Chef"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
@@ -49,7 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="30dp"
-            android:background="#FF5722"
+            android:background="@drawable/btnred"
             android:text="Connect As Customer"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
@@ -63,7 +63,8 @@
             android:layout_marginBottom="30dp"
             android:background="#FF5722"
             android:text="Connect As Delivery Person"
-            android:textColor="#FFFFFF"
-            android:textSize="18sp" />
+            android:textColor="#F6F3F3"
+            android:textSize="18sp"
+            tools:ignore="TextContrastCheck" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

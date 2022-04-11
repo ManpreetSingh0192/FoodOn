@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/FoodOn/app/src/main/res/drawable-v24/background_shape.xml" value="0.193" />
+        <entry key="..\:/FoodOn/app/src/main/res/layout/activity_chef_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/FoodOn/app/src/main/res/layout/activity_chef_registeration.xml" value="0.264" />
+        <entry key="..\:/FoodOn/app/src/main/res/layout/activity_choose_one.xml" value="0.24003623188405798" />
+        <entry key="..\:/FoodOn/app/src/main/res/layout/activity_delivery_registeration.xml" value="0.264" />
+        <entry key="..\:/FoodOn/app/src/main/res/layout/activity_registeration.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/background_shape.xml" value="0.1245" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/bluebutton.xml" value="0.1245" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/button_shape.xml" value="0.1245" />

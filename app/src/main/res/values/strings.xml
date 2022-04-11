@@ -4,8 +4,41 @@
     <string name="title_notifications">Notifications</string>
 
     <string-array name="State">
-        <item>Maharashtra</item>
-        <item>Gujarat</item>
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+        <item>New Brunswick</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Northwest Territories</item>
+        <item>Nova Scotia</item>
+        <item>Nunavut</item>
+        <item>Ontario</item>
+        <item>Prince Edward Island</item>
+        <item>Quebec</item>
+        <item>Saskatchewan</item>
+        <item>Yukon</item>
+    </string-array>
+
+    <string-array name="Citys">
+        <item>Toronto</item>
+        <item>Montreal</item>
+        <item>Vancouver</item>
+        <item>Calgary</item>
+        <item>Edmonton</item>
+        <item>Winnipeg</item>
+        <item>Quebec</item>
+        <item>Kitchener</item>
+        <item>London</item>
+        <item>Brampton</item>
+    </string-array>
+
+    <string-array name="Suburban">
+        <item>Chinook Park, Calgary</item>
+        <item>The Hydrostone, Halifax</item>
+        <item>Inner Harbour, Kingston </item>
+        <item>The Cathedral Village, Regina</item>
+        <item>Snug Cove, Bowen Island</item>
+
     </string-array>
 
     <string-array name="shipper">
